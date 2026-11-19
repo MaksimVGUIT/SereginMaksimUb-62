@@ -1,0 +1,6 @@
+[
+  {"id": 1, "title": "Молоко", "category": "продукты", "amount": 90, "completed": true},
+  {"id": 2, "title": "Хлеб", "category": "продукты", "amount": 45, "completed": false},
+  {"id": 3, "title": "Блокнот", "category": "канцелярия", "amount": 150, "completed": false},
+  {"id": 4, "title": "Наушники", "category": "техника", "amount": 2500, "completed": false}
+]
